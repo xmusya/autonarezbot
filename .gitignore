@@ -1,0 +1,19 @@
+# рабочий конфиг с реальными ключами — в репозиторий не идёт
+config.py
+
+# состояние и память
+bot_state.json
+memory.json
+
+# промежуточные пулы и инструменты генерации промптов (не публикуем)
+promptgemini*.txt
+promptgemini*.swp
+prompts1.txt
+gen_prompts.py
+merge_prompts.py
+guinarez.py
+
+# мусор
+__pycache__/
+*.pyc
+*.swp
